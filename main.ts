@@ -2,7 +2,6 @@ import { Observable, Observer } from "rxjs";
 
 let output = document.getElementById('output');
 let button = document.getElementById('button');
-
 let click = Observable.fromEvent(button,'click');
 /*source.subscribe(new MyObservable);*/
 
