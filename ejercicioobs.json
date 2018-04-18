@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Arturo",
+        "calif": 50
+    },
+    {
+        "name": "Alain",
+        "calif": 10
+    },
+    {
+        "name":"Jonathan",
+        "calif":85
+    },
+    {
+        "name":"Alejandra",
+        "calif": 100
+    },
+    {
+        "name":"Diana",
+        "calif": 5
+    },
+    {
+        "name":"Urbano",
+        "calif": 65
+    },
+    
+    {
+        "name":"Minely",
+        "calif": 28
+    },
+    {
+        "name":"David",
+        "calif": 42
+    }
+]
